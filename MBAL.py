@@ -1,5 +1,8 @@
 import math
 
+
+import math
+
     a = int(input('выбор действия'))
     if a==1:
     x=int(input('введите x '))
